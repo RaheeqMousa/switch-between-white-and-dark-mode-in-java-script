@@ -21,5 +21,5 @@ This is a simple and interactive web project that allows users to toggle between
 - **JavaScript**
 
 ## How It Works
-The user clicks a toggle (button).
-JavaScript adds or removes a dark-mode class from the <body>.
+- The user clicks a toggle (button).
+- JavaScript adds or removes a dark-mode class from the <body>.
